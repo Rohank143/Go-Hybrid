@@ -1,4 +1,4 @@
-# Spike 12: Cancellation-Safe Structured Task Regions Through Blocking-Effect Admission
+# Spike 15: Cancellation-Safe Structured Task Regions Through Blocking-Effect Admission
 
 - **Proposal:** Wildcard Entry **W-007** (Issue #348, submitter: `@yupengtang`)
 - **Review Slot:** Slot 7, 2026-11-01 Review Window ([Discussion #365](https://github.com/limitlessprojects/Go-Hybrid/discussions/365))

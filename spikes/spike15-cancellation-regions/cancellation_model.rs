@@ -1,4 +1,4 @@
-// spikes/spike12-cancellation-regions/cancellation_model.rs
+// spikes/spike15-cancellation-regions/cancellation_model.rs
 // Bounded feasibility model for Wildcard Bounty #348 (W-007)
 // Formalizing cancellation-safe structured task regions through blocking-effect admission.
 
